@@ -1,5 +1,10 @@
 Fixing Roblox executors not work
 
+# SUPPORTED EXECUTORS
+Velocity
+Xeno
+Build-In executor (ExecPatcher executor)
+
 # English 🇬🇧 / 🇺🇸
 
 1. Create a folder at disk C and call it whatever you want

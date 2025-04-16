@@ -4,9 +4,9 @@ Fixing Roblox executors not work
 
 1. Create a folder at disk C and call it whatever you want
 2. Create a file: log.txt
-3. Download settings.json and RobloxExecPatcher.exe
-4. Put settings.json and RobloxExecPatcher.exe to folder that you created
-5. Launch RobloxExecPatcher.exe as admin
+3. Download settings.json and ExecPatcher.exe
+4. Put settings.json and ExecPatcher.exe to folder that you created
+5. Launch ExecPatcher.exe as admin
 6. Wait until message pop up with text "No errors"
 7. Done!
 

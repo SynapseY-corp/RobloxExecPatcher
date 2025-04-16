@@ -1,7 +1,6 @@
 {
-    "UseBetaVersion": false,
-    "key": "free",
-    "UseLatestVersion": true,
+    "force-macOs-version": false,
+    "EnableRbxMe": true,
     "Use2022luau": false,
-    "luau-force-version": "beta-U294-luau.roblox.com/latest/LuaU/compiler.lib"
+    "luau-force-version": "DONT-CHANGE-IF-YOU-DONT-KNOW-WHAT-YOU-DOING"
 }

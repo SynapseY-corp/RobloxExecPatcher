@@ -1,0 +1,7 @@
+{
+    "UseBetaVersion": false,
+    "key": "free",
+    "UseLatestVersion": true,
+    "Use2022luau": false,
+    "luau-force-version": "beta-U294-luau.roblox.com/latest/LuaU/compiler.lib"
+}

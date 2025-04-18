@@ -5,7 +5,7 @@ Velocity
 
 Xeno
 
-<and others...>
+and others...
 
 
 # English 🇬🇧 / 🇺🇸
